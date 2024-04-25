@@ -14,4 +14,6 @@ This is my implementation of the task I received at cankeremkurt@gmail.com
 
 ### Example Video
 
+**Note:** The following video is shared privately.
+
 [![Example Video](https://img.youtube.com/vi/OmCb6oUAqLU/0.jpg)](https://youtu.be/OmCb6oUAqLU)
